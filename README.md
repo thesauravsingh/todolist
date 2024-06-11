@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/todolist-app.git
+git clone https://github.com/thesauravsingh/todolist-app.git
 cd todolist-app
 Install dependencies:
 
